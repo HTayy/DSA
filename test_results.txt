@@ -1,0 +1,79 @@
+=== test1.inp === 
+Input: 
+QuickSort: 107 ms
+HeapSort: 69 ms
+MergeSort: 287 ms
+C++_Sort: 36 ms
+PythonSort: 101 ms
+ 
+=== test2.inp === 
+Input: 
+QuickSort: 127 ms
+HeapSort: 119 ms
+MergeSort: 239 ms
+C++_Sort: 22 ms
+PythonSort: 91 ms
+ 
+=== test3.inp === 
+Input: 
+QuickSort: 144 ms
+HeapSort: 185 ms
+MergeSort: 354 ms
+C++_Sort: 146 ms
+PythonSort: 90 ms
+ 
+=== test4.inp === 
+Input: 
+QuickSort: 214 ms
+HeapSort: 210 ms
+MergeSort: 461 ms
+C++_Sort: 123 ms
+PythonSort: 95 ms
+ 
+=== test5.inp === 
+Input: 
+QuickSort: 172 ms
+HeapSort: 314 ms
+MergeSort: 341 ms
+C++_Sort: 109 ms
+PythonSort: 96 ms
+ 
+=== test6.inp === 
+Input: 
+QuickSort: 183 ms
+HeapSort: 168 ms
+MergeSort: 400 ms
+C++_Sort: 125 ms
+PythonSort: 117 ms
+ 
+=== test7.inp === 
+Input: 
+QuickSort: 226 ms
+HeapSort: 198 ms
+MergeSort: 341 ms
+C++_Sort: 158 ms
+PythonSort: 88 ms
+ 
+=== test8.inp === 
+Input: 
+QuickSort: 210 ms
+HeapSort: 252 ms
+MergeSort: 381 ms
+C++_Sort: 122 ms
+PythonSort: 125 ms
+ 
+=== test9.inp === 
+Input: 
+QuickSort: 208 ms
+HeapSort: 239 ms
+MergeSort: 328 ms
+C++_Sort: 97 ms
+PythonSort: 107 ms
+ 
+=== test10.inp === 
+Input: 
+QuickSort: 170 ms
+HeapSort: 215 ms
+MergeSort: 372 ms
+C++_Sort: 120 ms
+PythonSort: 110 ms
