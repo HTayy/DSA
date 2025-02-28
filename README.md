@@ -1,1 +1,2 @@
-"# sdf" 
+- 👋 Hi, I’m @HTayy
+- 🌱 I’m currently learning UIT
